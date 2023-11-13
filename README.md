@@ -54,6 +54,8 @@ localization output: "Computer FromMemory"
  */
 ```
 ### Release Notes
+#### 1.0.2
+* Nuget version updated
 
 #### 1.0.0
 * Base Release

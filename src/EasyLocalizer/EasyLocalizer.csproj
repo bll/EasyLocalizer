@@ -8,8 +8,8 @@
     <Company>bll</Company>
     <Authors>Bilal Yanık</Authors>
     <PackageLicenseExpression></PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/bll/Localizer</PackageProjectUrl> 
-    <RepositoryUrl>https://github.com/bll/Localizer</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/bll/EasyLocalizer</PackageProjectUrl> 
+    <RepositoryUrl>https://github.com/bll/EasyLocalizer</RepositoryUrl>
     <PackageId>EasyLocalizer</PackageId>
     <PackageIcon>EasyLocalizer.png</PackageIcon>
     <PackageTags>EasyLocalizer</PackageTags>
@@ -17,7 +17,7 @@
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <Version>1.0.0</Version>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
