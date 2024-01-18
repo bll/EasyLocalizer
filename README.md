@@ -44,7 +44,7 @@ var category = new Category {
 
 // Usage
 
-var easyLocalizer = new EasyLocalizer.Localizer();
+var easyLocalizer = new EasyLocalizer.Localize();
 
 var localizedEntity = easyLocalizer.Translate(new FromMemoryLocalizerStrategy(), category);
 
